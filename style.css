@@ -1,0 +1,39 @@
+#main{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    box-shadow: 0 0 20px #777777;
+    padding: 50px;
+}
+
+#title{
+    text-align: center;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-bottom: solid rgb(0, 39, 70,0.2) 1px;
+}
+
+#add{
+    margin-top: 40px;
+    border-bottom: solid rgb(0, 39, 70,0.2) 1px;
+    padding-bottom: 30px;
+}
+
+#list{
+    margin-top: 20px;
+    padding: 10px;
+}
+
+footer{
+    height: 200px;
+}
+
+.doel{
+    padding: 10px;
+    border-bottom: solid rgb(0, 39, 70,0.2) 1px;
+}
+
+input[type=checkbox]:checked + label {
+    color: #f00;
+    text-decoration: line-through;
+} 
